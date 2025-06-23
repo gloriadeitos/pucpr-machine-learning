@@ -38,9 +38,3 @@ O projeto é organizado em um notebook Jupyter (`analise.ipynb`) contendo:
    - Estatísticas descritivas
    - Matriz de correlação
    - Distribuição das variáveis
-
-2. **Pipeline de ML**:
-   ```python
-   from sklearn.ensemble import RandomForestRegressor
-   model = RandomForestRegressor()
-   model.fit(X_train, y_train)
