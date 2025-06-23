@@ -32,7 +32,7 @@ Este trabalho consiste na análise preditiva do dataset **NASA Airfoil Self-Nois
    - Análise de importância de features
 
 ### Estrutura do Projeto
-O projeto é organizado em um notebook Jupyter (`analise.ipynb`) contendo:
+O projeto é organizado em um notebook Jupyter (`nasa_airfoil_analysis.ipynb`) contendo:
 
 1. **Análise Exploratória**:
    - Estatísticas descritivas
