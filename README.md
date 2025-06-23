@@ -1,4 +1,4 @@
-#### Glória Maria Deitos Gomes da Silva <br> 02.Dezembro.2024
+#### Glória Maria Deitos Gomes da Silva <br> 22.Junho.2025
 
 # pucpr-machine-learning
 
